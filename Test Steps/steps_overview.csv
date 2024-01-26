@@ -1,0 +1,45 @@
+Flow ID,Name,Description,Test Steps,Flow Priority
+0,Verify Navigation to Inventory Page and Adding Item to Cart,Navigate to the inventory page and add the specified item to the cart. Verify the successful navigation to the home page.,"step 1: Navigate to Page_inventory.html
+step 2: At Page inventory.html, click on button add to cart sauce labs backpack
+step 3: At Page inventory.html, click on hyperlink 2 > navigate to Page home
+step 4: Add visual checkpoint at Page_home",High
+1,Verify Login and Access to Cart Page,Navigate to the home page and login using the provided credentials. Access the cart page and verify the successful navigation.,"step 1: Navigate to Page_home
+step 2: At Page home, click on input user name
+step 3: At Page home, input on input user name
+step 4: At Page home, input on input password
+step 5: At Page home, click on input login button > navigate to Page inventory.html
+step 6: At Page inventory.html, click on hyperlink object > navigate to Page cart.html
+step 7: At Page cart.html, click on div object
+step 8: At Page cart.html, click on button react burger menu btn
+step 9: Add visual checkpoint at Page_cart.html",High
+2,Verify Checkout Process and Completion,"Navigate to the inventory page and add specified items to the cart. Proceed to checkout, enter the required information, and complete the checkout process. Verify the successful completion of the checkout.","step 1: Navigate to Page_inventory.html
+step 2: At Page inventory.html, click on button add to cart sauce labs backpack
+step 3: At Page inventory.html, click on button add to cart sauce labs bolt t shirt
+step 4: At Page inventory.html, click on hyperlink 2 > navigate to Page cart.html
+step 5: At Page cart.html, click on button checkout > navigate to Page checkout-step-one.html
+step 6: At Page checkout-step-one.html, click on input firstname
+step 7: At Page checkout-step-one.html, input on input firstname
+step 8: At Page checkout-step-one.html, click on input lastname
+step 9: At Page checkout-step-one.html, input on input lastname
+step 10: At Page checkout-step-one.html, click on input postalcode
+step 11: At Page checkout-step-one.html, input on input postalcode
+step 12: At Page checkout-step-one.html, click on input continue > navigate to Page checkout-step-two.html
+step 13: At Page checkout-step-two.html, click on button finish > navigate to Page checkout-complete.html
+step 14: At Page checkout-complete.html, click on div object
+step 15: At Page checkout-complete.html, click on button react burger menu btn
+step 16: Add visual checkpoint at Page_checkout-complete.html",High
+3,Verify Successful Navigation to Inventory Page,Navigate to the home page and login using the provided credentials. Verify the successful navigation to the inventory page.,"step 1: Navigate to Page_home
+step 2: At Page home, click on input user name
+step 3: At Page home, input on input user name
+step 4: At Page home, input on input password
+step 5: At Page home, click on input login button > navigate to Page inventory.html
+step 6: At Page inventory.html, click on button react burger menu btn
+step 7: Add visual checkpoint at Page_inventory.html",Low
+4,Verify Adding Item to Cart from Inventory Item Page,"Navigate to the home page, login, and proceed to the inventory item page. Add the specified item to the cart and verify the successful addition.","step 1: Navigate to Page_home
+step 2: At Page home, click on input user name
+step 3: At Page home, input on input user name
+step 4: At Page home, input on input password
+step 5: At Page home, click on input login button > navigate to Page inventory.html
+step 6: At Page inventory.html, click on hyperlink item 4 img link > navigate to Page inventory-item.html
+step 7: At Page inventory-item.html, click on button add to cart sauce labs backpack
+step 8: Add visual checkpoint at Page_inventory-item.html",Trivial

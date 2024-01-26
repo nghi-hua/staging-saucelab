@@ -1,0 +1,11 @@
+{
+    "steps": [
+        "step 1: Navigate to Page_home",
+        "step 2: At Page home, click on input user name",
+        "step 3: At Page home, input on input user name",
+        "step 4: At Page home, input on input password",
+        "step 5: At Page home, click on input login button > navigate to Page inventory.html",
+        "step 6: At Page inventory.html, click on button react burger menu btn",
+        "step 7: Add visual checkpoint at Page_inventory.html"
+    ]
+}

@@ -1,0 +1,8 @@
+{
+    "steps": [
+        "step 1: Navigate to Page_inventory.html",
+        "step 2: At Page inventory.html, click on button add to cart sauce labs backpack",
+        "step 3: At Page inventory.html, click on hyperlink 2 > navigate to Page home",
+        "step 4: Add visual checkpoint at Page_home"
+    ]
+}
