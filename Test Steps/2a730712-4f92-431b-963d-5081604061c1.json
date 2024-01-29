@@ -1,0 +1,19 @@
+{
+    "steps": [
+        "step 1: Navigate to Page  inventory html",
+        "step 2: At Page inventory html, click on button add to cart sauce labs backpack",
+        "step 3: At Page inventory html, click on hyperlink 2 > navigate to Page cart html",
+        "step 4: At Page cart html, click on button checkout > navigate to Page checkout-step-one html",
+        "step 5: At Page checkout-step-one html, click on input firstname",
+        "step 6: At Page checkout-step-one html, input on input firstname",
+        "step 7: At Page checkout-step-one html, click on input lastname",
+        "step 8: At Page checkout-step-one html, input on input lastname",
+        "step 9: At Page checkout-step-one html, click on input postalcode",
+        "step 10: At Page checkout-step-one html, input on input postalcode",
+        "step 11: At Page checkout-step-one html, click on input continue > navigate to Page checkout-step-two html",
+        "step 12: At Page checkout-step-two html, click on button finish > navigate to Page checkout-complete html",
+        "step 13: At Page checkout-complete html, click on div object",
+        "step 14: At Page checkout-complete html, click on button react burger menu btn",
+        "step 15: Add visual checkpoint at Page checkout-complete html"
+    ]
+}
